@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Odev1.props" />
+</Project>
